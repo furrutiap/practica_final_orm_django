@@ -1,2 +1,8 @@
-# practica_final_orm_django
-Practica final orm Django (Módulo 7)
+# proyecto practica final ORM Django
+
+
+## Tecnologías utilizadas
+-VScode
+-Google Crome
+-Github
+-Python 3.13.0
